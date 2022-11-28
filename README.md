@@ -1,4 +1,4 @@
-# 👋 Hello, Let's learn from each other! Let's produce precious experiences together!
+# 👋 Hello, Let's share valuable experiences together!
 
 ## I'm @dybbuk555, a Full-Time Full-Stack Freelance Developer 👨&zwj;💻 working remotely since 2022 🚀
 
