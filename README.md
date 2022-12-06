@@ -97,9 +97,9 @@ I'm fun to work with, I always like to learn new things from others as much as h
   <!-- https://github.com/dybbuk555 -->
 
   <a href="https://github.com/dybbuk555">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dybbuk555's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dybbuk555&theme=monokai-metallian&hide_border=true" height="224px"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dybbuk555's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dybbuk555&theme=monokai-metallian&hide_border=true" height="192px"/>
   </a>
-  <a href="https://github.com/dybbuk555"><img alt="dybbuk555's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybbuk555&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="224px"/></a>
+  <a href="https://github.com/dybbuk555"><img alt="dybbuk555's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybbuk555&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
