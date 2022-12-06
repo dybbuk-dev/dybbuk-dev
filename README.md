@@ -1,10 +1,26 @@
-# 👋 Hello, Let's share valuable experiences together!
+<!-- Heading -->
+<h3 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-## I'm @dybbuk555, a Full-Time Full-Stack Freelance Developer 👨&zwj;💻 working remotely since 2022 🚀
+<!-- Profile Views -->
 
-I am available here 8+ hours a day, 6 days a week.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dybbuk555&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-![Views](https://komarev.com/ghpvc/?username=dybbuk555&label=Views&color=green&style=flat)
+12+ years professional experience as software developer. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="20" /> PHP enthusiast. Specialised in full-stack development and build management.
+
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+
+<!-- https://github-readme-stats.vercel.app/api?username=dybbuk555&show_icons=true -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Expert-_.svg?logo=javascript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-Enthusiast-_.svg?logo=php"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dybbuk555&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- About section -->
 
 ## Frontend
 
