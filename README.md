@@ -9,7 +9,6 @@
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 </p>
 
-<!-- https://github-readme-stats.vercel.app/api?username=dybbuk555&show_icons=true -->
 <img align="right" width="200" src="./assets/developer.gif" />
 <p>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Expert-_.svg?logo=javascript"></a>
@@ -21,6 +20,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <p>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
 </p>
+<br />
 
 <!-- About section -->
 
