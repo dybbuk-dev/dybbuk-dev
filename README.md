@@ -3,7 +3,6 @@
     <img align="center" width="50%" src="./assets/title.gif" /><br>
 </p>
 
-<img align="right" width="350" src="./assets/developer.gif" />
 <p>
 12+ years professional experience as software developer. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack development and build management.
 
@@ -18,7 +17,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
 </p>
 
+<img align="right" width="200" src="./assets/developer.gif" />
+<p>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+</p>
 
 <!-- About section -->
 
