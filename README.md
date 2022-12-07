@@ -1,9 +1,14 @@
 <!-- Heading -->
-<h3 align="center"><b> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></b></h3>
+<p align="center">
+    <img align="center" width="50%" src="./assets/title.gif" /><br>
+</p>
 
+<img align="right" width="350" src="./assets/developer.gif" />
+<p>
 12+ years professional experience as software developer. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack development and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+</p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=dybbuk555&show_icons=true -->
 <p>
