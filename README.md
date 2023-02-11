@@ -4,7 +4,7 @@
 </p>
 
 <p>
-12+ years professional experience as software developer. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack development and build management.
+I am Louis, a Full-stack Software Developer with +6 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 </p>
