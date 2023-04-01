@@ -4,7 +4,7 @@
 </p>
 
 <p>
-I am Louis, a Full-stack Software Developer with +6 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
+I am Akira, a Full-stack Software Developer with +6 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 </p>
@@ -36,11 +36,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=plastic&logo=javascript"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=plastic&logo=typescript"></a>
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-20232a.svg?style=plastic&logo=php&logoColor=E2231A"></a>
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-20232a.svg?style=plastic&logo=database"></a>
-      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-20232a.svg?style=plastic&logo=c-in-hexagon"></a>
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-20232a.svg?style=plastic&logo=cpp2"></a>
-      <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-20232a.svg?style=plastic&logo=cs2"></a>
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?style=plastic&logo=java"></a>
       <a href="#"><img alt="Solidity" src="https://custom-icon-badges.demolab.com/badge/Solidity-20232a.svg?style=plastic&logo=solidity"></a>
   </p>
   <p>
@@ -86,19 +81,18 @@ I'm fun to work with, I always like to learn new things from others as much as h
       <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-20232a.svg?style=plastic&logo=bitbucket"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-20232a.svg?style=plastic&logo=jira"></a>
       <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-20232a.svg?style=plastic&logo=trello"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-20232a.svg?style=plastic&logo=stack-overflow"></a>
   </p>
 </details>
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Github Stats</b></summary>
 
-  <!-- https://github.com/louis10271995 -->
+  <!-- https://github.com/akira10231996 -->
   <br />
-  <a href="https://github.com/louis10271995">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="louis10271995's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=louis10271995&theme=monokai-metallian&hide_border=true" height="192px"/>
+  <a href="https://github.com/akira10231996">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akira10231996's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akira10231996&theme=monokai-metallian&hide_border=true" height="192px"/>
   </a>
-  <a href="https://github.com/louis10271995"><img alt="louis10271995's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis10271995&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/akira10231996"><img alt="akira10231996's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira10231996&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -107,28 +101,17 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
-  <a href="https://github.com/louis10271995">
-    <img alt="louis10271995's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louis10271995&theme=github_dark" />
+  <a href="https://github.com/akira10231996">
+    <img alt="akira10231996's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akira10231996&theme=github_dark" />
   </a>
 </details>
 
 <details open>
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
-  <a href="https://github.com/louis10271995">
-    <img alt="louis10271995's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=louis10271995&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <a href="https://github.com/akira10231996">
+    <img alt="akira10231996's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=akira10231996&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
-</details>
-
-<details>
-<summary>💥&nbsp;&nbsp;Working on </summary>
-<br>
-<a href="https://github.com/louis10271995/swimming_school_management">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=louis10271995&repo=swimming_school_management&show_owner=true&theme=react" />
-</a>
-<a href="https://github.com/louis10271995/bloktok-realestate-investment">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=louis10271995&repo=bloktok-realestate-investment&show_owner=true&theme=react" />
-</a>
 </details>
 
 <br/>
