@@ -4,7 +4,7 @@
 </p>
 
 <p>
-I am Akira, a Full-stack Software Developer with +6 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
+I am a Full-stack Software Developer with +7 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 </p>
@@ -87,12 +87,12 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <details>
   <summary><b>💻&nbsp;&nbsp;Github Stats</b></summary>
 
-  <!-- https://github.com/akira10231996 -->
+  <!-- https://github.com/dybbuk-dev -->
   <br />
-  <a href="https://github.com/akira10231996">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akira10231996's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akira10231996&theme=monokai-metallian&hide_border=true" height="192px"/>
+  <a href="https://github.com/dybbuk-dev">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dybbuk-dev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dybbuk-dev&theme=monokai-metallian&hide_border=true" height="192px"/>
   </a>
-  <a href="https://github.com/akira10231996"><img alt="akira10231996's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira10231996&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/dybbuk-dev"><img alt="dybbuk-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybbuk-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -101,16 +101,16 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
-  <a href="https://github.com/akira10231996">
-    <img alt="akira10231996's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akira10231996&theme=github_dark" />
+  <a href="https://github.com/dybbuk-dev">
+    <img alt="dybbuk-dev's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dybbuk-dev&theme=github_dark" />
   </a>
 </details>
 
 <details open>
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
-  <a href="https://github.com/akira10231996">
-    <img alt="akira10231996's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=akira10231996&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <a href="https://github.com/dybbuk-dev">
+    <img alt="dybbuk-dev's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dybbuk-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 </details>
 
