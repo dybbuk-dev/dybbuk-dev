@@ -4,7 +4,7 @@
 </p>
 
 <p>
-I am a Full-stack Software Developer with +7 years of professional experience. <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /> PHP enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
+I am a Full-stack Software Developer with +7 years of professional experience. <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" /> JavaScript expert. <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" height="20" /> Solidity enthusiast. Specialised in full-stack web, blockchain and smart contract developments.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 </p>
@@ -12,7 +12,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <img align="right" width="200" src="./assets/developer.gif" />
 <p>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Expert-_.svg?logo=javascript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-Enthusiast-_.svg?logo=php"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-Enthusiast-_.svg?logo=solidity"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
 </p>
@@ -31,56 +31,37 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
   <br />
   <p>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-20232a.svg?style=plastic&logo=html5"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-20232a.svg?style=plastic&logo=css3"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=plastic&logo=javascript"></a>
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=plastic&logo=typescript"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-20232a.svg?style=plastic&logo=php&logoColor=E2231A"></a>
-      <a href="#"><img alt="Solidity" src="https://custom-icon-badges.demolab.com/badge/Solidity-20232a.svg?style=plastic&logo=solidity"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
+      <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+      <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
+      <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+      <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
   </p>
   <p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=plastic&logo=react"></a>
-      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?style=plastic&logo=nextdotjs"></a>
-      <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?style=plastic&logo=vuedotjs"></a>
-      <a href="#"><img alt="Svelte.js" src="https://img.shields.io/badge/Svelte.js-20232a.svg?style=plastic&logo=svelte"></a>
-      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-20232a.svg?style=plastic&logo=angular"></a>
-      <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-20232a.svg?style=plastic&logo=web3dotjs"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232a.svg?style=plastic&logo=bootstrap"></a>
-      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-20232a.svg?style=plastic&logo=tailwindcss"></a>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-20232a.svg?style=plastic&logo=material-design"></a>
-      <a href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-20232a.svg?style=plastic&logo=chakraui"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-20232a.svg?style=plastic&logo=express"></a>
-      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-20232a.svg?style=plastic&logo=laravel"></a>
-      <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-20232a.svg?style=plastic&logo=codeigniter"></a>
-      <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-20232a.svg?style=plastic&logo=symfony"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-20232a.svg?style=plastic&logo=wordpress"></a>
-      <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-20232a.svg?style=plastic&logo=shopify"></a>
-      <a href="#"><img alt="Webflow" src="https://img.shields.io/badge/Webflow-20232a.svg?style=plastic&logo=webflow"></a>
-      <a href="#"><img alt="Shopware" src="https://img.shields.io/badge/Shopware-20232a.svg?style=plastic&logo=shopware"></a>
+      <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
+      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
   </p>
   <p>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232a.svg?style=plastic&logo=mysql"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-20232a.svg?style=plastic&logo=sqlite"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=plastic&logo=postgresql"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-20232a.svg?style=plastic&logo=oracle"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-20232a.svg?style=plastic&logo=mongodb"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-20232a.svg?style=plastic&logo=heroku"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-20232a.svg?style=plastic&logo=vercel"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-20232a.svg?style=plastic&logo=github"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-20232a.svg?style=plastic&logo=notion"></a>
-      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-20232a.svg?style=plastic&logo=render"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-20232a.svg?style=plastic&logo=docker"></a>
-      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-20232a.svg?style=plastic&logo=nginx"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   </p>
   <p>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=plastic&logo=visual-studio-code"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-20232a.svg?style=plastic&logo=postman"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-20232a.svg?style=plastic&logo=figma"></a>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-20232a.svg?style=plastic&logo=adobe"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-20232a.svg?style=plastic&logo=git"></a>
-      <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-20232a.svg?style=plastic&logo=bitbucket"></a>
-      <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-20232a.svg?style=plastic&logo=jira"></a>
-      <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-20232a.svg?style=plastic&logo=trello"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+      <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+      <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
   </p>
 </details>
 
@@ -110,8 +91,16 @@ I'm fun to work with, I always like to learn new things from others as much as h
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
   <a href="https://github.com/dybbuk-dev">
-    <img alt="dybbuk-dev's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dybbuk-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="dybbuk-dev's Activity Graph last month" src="https://github-readme-activity-graph.vercel.app/graph/?username=dybbuk-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
+</details>
+
+<details>
+    <summary><b>🏆&nbsp;&nbsp;Github Trophy</b></summary>
+    <br />
+    <a href="https://github.com/dybbuk-dev">
+        <img alt="dybbuk-dev's Trophy" src="https://github-profile-trophy.vercel.app/?username=dybbuk-dev&theme=onedark&column=7" />
+    </a>
 </details>
 
 <br/>
