@@ -25,12 +25,13 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <!-- About section -->
 
 ---
-<details>
+<details open>
   <summary><b>🛠️&nbsp;&nbsp;Languages and Tools</b></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <br />
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
       <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
@@ -42,6 +43,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
       <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
   </p>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
@@ -50,12 +52,14 @@ I'm fun to work with, I always like to learn new things from others as much as h
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
   </p>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   </p>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -87,7 +91,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
   </a>
 </details>
 
-<details open>
+<details>
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
   <a href="https://github.com/dybbuk-dev">
