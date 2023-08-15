@@ -88,7 +88,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 </details>
 
 <details>
-  <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
+  <summary><b>📊&nbsp;&nbsp;Activity in this month</b></summary>
   <br />
   <a href="https://github.com/dybbuk-dev">
     <img alt="dybbuk-dev's Activity Graph last month" src="https://github-readme-activity-graph.vercel.app/graph/?username=dybbuk-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
